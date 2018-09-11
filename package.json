@@ -31,7 +31,7 @@
   "dependencies": {
     "css-parse": "1.7.x",
     "mkdirp": "0.5.x",
-    "debug": "*",
+    "debug": "3.1.0",
     "sax": "0.5.x",
     "glob": "7.0.x",
     "source-map": "0.1.x"
